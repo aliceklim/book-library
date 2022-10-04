@@ -5,7 +5,6 @@ import main.model.Book;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-
 public class Storage
 {
     private static int currentId = 1;
